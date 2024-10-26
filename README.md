@@ -1,4 +1,4 @@
-![Screenshot 2024-10-26 193509](https://github.com/user-attachments/assets/ac792fd3-a350-49b5-8cc8-f8bc1fc300ff)# Railway-Reservation-System
+## Railway-Reservation-System
 ## NAME: KAMALESH S
 ## REG_NO:212223040083
 ## USECASE DIAGRAM:
