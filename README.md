@@ -1,4 +1,4 @@
-## EX NO:# Railway Resevation System
+## EX NO:3 Railway Resevation System
 ## DATE:
 ## AIM:To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
 ## PROBLEM STATEMENT:
