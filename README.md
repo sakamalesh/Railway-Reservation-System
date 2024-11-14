@@ -1,4 +1,4 @@
-## Student-Registration-System
+## Online-Examination-System
 ## NAME: KAMALESH S
 ## REG_NO:212223040083
 ## USECASE DIAGRAM:
