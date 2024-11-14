@@ -4,7 +4,7 @@
 ## USECASE DIAGRAM:
 A Library Management System (LMS) use case diagram visually represents the interactions between users and the system's key functionalities. In this diagram, actors like Librarians, Members, and Admins are connected to various use cases, showing the system's operations. Librarians can manage books, members, and lending activities, while members can search for books, borrow, and return them. Admins might have broader privileges, such as managing user roles. This diagram helps clarify the system’s functional requirements, supporting efficient design and implementation. 
 
-![Uploading Model4!UseCaseDiagram1_8.jpg…]()
+![Model4!UseCaseDiagram1_8](https://github.com/user-attachments/assets/2248a7f1-db22-4563-af05-3b5f8f9a2450)
 
 ## ACTIVITY DIAGRAM:
 This diagram depicts the Activity diagram of Libary Management System. It starts with entering the library and showing an ID, which is then verified. After verification, the user inquires about a book and searches for it. Upon finding the book, they take it and make an entry in the "take away" register. The final steps involve reading and understanding the book and ensuring it is returned on time. The chart visually organizes each step in sequence to illustrate the library borrowing process.
